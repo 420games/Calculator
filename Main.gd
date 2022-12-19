@@ -17,5 +17,11 @@ func _ready():
 
 
 func _on_Button_pressed(extra_arg_0):
+	# save button that was clicked
 	print(extra_arg_0);
+	pass # Replace with function body.
+
+
+func _on_Button_Clear_pressed():
+	# clear the inputs and cache
 	pass # Replace with function body.
